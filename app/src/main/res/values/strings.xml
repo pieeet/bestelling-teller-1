@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bestelling teller v1</string>
+    <string name="action_settings">Settings</string>
+    <string name="fris_button_label">Fris</string>
+    <string name="bier_button_label">Bier</string>
+    <string name="wijn_button_label">Wijn</string>
+    <string name="koffie_button_label">Koffie</string>
+    <string name="bin_dist_button_label">Binn. gedist.</string>
+    <string name="buit_dist_button_label">Buit. gedist.</string>
+    <string name="nieuwe_bestelling_button_label">Nieuwe bestelling</string>
+    <string name="bestelling">Bestelling:</string>
+    <string name="omzet">Dagomzet:</string>
+    <string name="gemiddelde">Gemiddelde bestelling:</string>
+</resources>
